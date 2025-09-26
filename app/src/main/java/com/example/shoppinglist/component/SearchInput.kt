@@ -1,3 +1,5 @@
+package com.example.shoppinglist.component
+
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons

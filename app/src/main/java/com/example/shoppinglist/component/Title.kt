@@ -1,3 +1,5 @@
+package com.example.shoppinglist.component
+
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.MaterialTheme
